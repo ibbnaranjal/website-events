@@ -7,17 +7,20 @@
             {
                 "start": "07:00",
                 "end": "08:50",
-                "title": "Desayuno"
+                "title": "Desayuno",
+                "icon": "🍞"
             },
             {
                 "start": "09:00",
                 "title": "Apertura del programa",
-                "responsible": "Pastor de la Iglesia"
+                "responsible": "Pastor de la Iglesia",
+                "icon": "🗣️"
             },
             {
                 "start": "09:05",
                 "end": "09:30",
-                "title": "Programa Musical"
+                "title": "Programa Musical",
+                "icon": "🎶"
             }
         ]
     },
