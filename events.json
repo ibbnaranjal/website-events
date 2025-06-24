@@ -2,7 +2,24 @@
     {
         "title": "60 Aniversario",
         "date": "2025-06-28",
-        "description": "Un tiempo especial de gratitud y comunión por un año más de la Iglesia."
+        "description": "Un tiempo especial de gratitud y comunión por un año más de la Iglesia.",
+        "schedule": [
+            {
+                "start": "07:00",
+                "end": "08:50",
+                "title": "Desayuno"
+            },
+            {
+                "start": "09:00",
+                "title": "Apertura del programa",
+                "responsible": "Pastor de la Iglesia"
+            },
+            {
+                "start": "09:05",
+                "end": "09:30",
+                "title": "Programa Musical"
+            }
+        ]
     },
     {
         "title": "Marcha por Jesús",
