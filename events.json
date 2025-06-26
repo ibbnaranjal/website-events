@@ -3,7 +3,8 @@
         "title": "Escuela Dominical",
         "recurrence": {
         "day": 0,
-        "time": "10:00"
+        "start": "10:00",
+        "end": "11:00"
         },
         "description": "Primera parte del día para aprender de la biblia separados en clases.",
         "youtubeLiveId": ""
@@ -12,7 +13,8 @@
         "title": "Culto de Adoración",
         "recurrence": {
         "day": 0,
-        "time": "11:00"
+        "start": "11:00",
+        "end": "13:00"
         },
         "description": "Segunda parte del día para adorar y aprender de la palabra de Dios.",
         "youtubeLiveId": ""
@@ -21,7 +23,8 @@
         "title": "Culto Evangelístico",
         "recurrence": {
         "day": 0,
-        "time": "19:00"
+        "start": "19:00",
+        "end": "21:00"
         },
         "description": "Un servicio especial para compartir el evangelio.",
         "youtubeLiveId": ""
@@ -30,7 +33,8 @@
         "title": "Estudio Bíblico u Oración",
         "recurrence": {
         "day": 3,
-        "time": "20:00"
+        "start": "20:00",
+        "end": "22:00"
         },
         "description": "Un tiempo de estudio bíblico u oración.",
         "youtubeLiveId": ""
