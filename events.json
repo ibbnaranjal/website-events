@@ -44,25 +44,27 @@
         "date": "2025-06-28",
         "description": "Un tiempo especial de gratitud y comunión por un año más de la Iglesia.",
         "schedule": [
-            {
-                "start": "07:00",
-                "end": "08:50",
-                "title": "Desayuno",
-                "icon": "🍞"
-            },
-            {
-                "start": "09:00",
-                "end": "09:04",
-                "title": "Apertura del programa",
-                "responsible": "Pastor de la Iglesia",
-                "icon": "🗣️"
-            },
-            {
-                "start": "09:05",
-                "end": "09:30",
-                "title": "Programa Musical",
-                "icon": "🎶"
-            }
+            { "start": "09:00", "end": "09:05", "title": "Palabras de Bienvenida", "responsible": "Ps. Fortunato B.", "icon": "🎙️" },
+            { "start": "09:05", "end": "09:10", "title": "Himno 'Cuán grande es Él'", "responsible": "Ministerio Musical", "icon": "🎵" },
+            { "start": "09:10", "end": "09:15", "title": "Especial 'Tu fidelidad'", "responsible": "Lemuel Adolescentes", "icon": "🎶" },
+            { "start": "09:15", "end": "09:20", "title": "Lectura del Pacto de la Iglesia", "responsible": "Ms. Ángel Puga", "icon": "📜" },
+            { "start": "09:20", "end": "09:25", "title": "Lectura de los Artículos de Fe", "responsible": "Ps. Kendig V.", "icon": "📜" },
+            { "start": "09:25", "end": "09:30", "title": "Reseña Histórica de la IBB del Parque Naranjal", "responsible": "Ps. Fortunato B.", "icon": "📢" },
+            { "start": "09:30", "end": "10:20", "title": "Primera predicación", "responsible": "Ps. Alberto Ramirez.", "icon": "📖" },
+            { "start": "10:20", "end": "10:25", "title": "Himno 'Los que esperan en Jehová'", "responsible": "Ministerio Musical", "icon": "🎵" },
+            { "start": "10:25", "end": "10:30", "title": "Especial 'Yo andaba perdido en el mundo'", "responsible": "Hno. Serafín Condori", "icon": "🎶" },
+            { "start": "10:30", "end": "10:35", "title": "Especial 'Tienes que adivinar'", "responsible": "Ministerio Infantil Bautista", "icon": "🎶" },
+            { "start": "10:35", "end": "10:40", "title": "Especial 'Tal como soy'", "responsible": "Llamp'u Corazón Dispuesto", "icon": "🎶" },
+            { "start": "10:40", "end": "10:45", "title": "Especial 'Amor sublime'", "responsible": "Llamp'u Corazón Dispuesto", "icon": "🎶" },
+            { "start": "10:45", "end": "11:35", "title": "Segunda predicación", "responsible": "Ps. Donato Puga.", "icon": "📖" },
+            { "start": "11:35", "end": "11:40", "title": "Presentación de iglesias", "responsible": "Ps. Fortunato B.", "icon": "🏛️" },
+            { "start": "11:40", "end": "11:50", "title": "Receso", "responsible": "Ps. Fortunato B.", "icon": "☕" },
+            { "start": "11:50", "end": "11:55", "title": "Himno 'Grande es tu fidelidad'", "responsible": "Ministerio Musical", "icon": "🎵" },
+            { "start": "11:55", "end": "12:00", "title": "Especial 'Faltas no vio'", "responsible": "Hno. Jose Luis Torres", "icon": "🎶" },
+            { "start": "12:00", "end": "12:05", "title": "Especial 'Lugar especial'", "responsible": "Lemuel Kids", "icon": "🎶" },
+            { "start": "12:05", "end": "12:10", "title": "Especial 'Dulce vida'", "responsible": "Lemuel Kids", "icon": "🎶" },
+            { "start": "12:10", "end": "12:15", "title": "Especial 'He escuchado de un hogar'", "responsible": "Sexteto Femenino Naranjal", "icon": "🎶" },
+            { "start": "12:15", "end": "13:05", "title": "Tercera predicación", "responsible": "Ps. Rodolfo Vargas.", "icon": "📖" }
         ]
     },
     {
