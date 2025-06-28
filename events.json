@@ -43,6 +43,7 @@
         "title": "60 Aniversario",
         "date": "2025-06-28",
         "description": "Un tiempo especial de gratitud y comunión por un año más de la Iglesia.",
+"youtubeLiveId": "",
         "schedule": [
             { "start": "09:00", "end": "09:05", "title": "Palabras de Bienvenida", "responsible": "Ps. Fortunato B.", "icon": "🎙️" },
             { "start": "09:05", "end": "09:10", "title": "Himno 'Cuán grande es Él'", "responsible": "Ministerio Musical", "icon": "🎵" },
